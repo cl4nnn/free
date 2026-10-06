@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://herculesshield.discloud.app/api/v1/scripts/public/2e756ea2-571a-44e1-a59c-dce12356c1f5/download"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/xitados/e02f5389530c750f4e83734cbc27e950/raw/aae1eba2c314931a621acb40c7dac4d41a957b30/gistfile1.txt"))()
